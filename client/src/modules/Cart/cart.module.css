@@ -1,0 +1,60 @@
+.cart_margin {
+  margin-top: 2em!important;
+}
+
+.table_style {
+  display: flex!important;
+  justify-content: flex-end!important;
+}
+
+.mobile_style {
+  height: 200px!important;
+  width: 40%!important;
+  margin-bottom:10px!important;
+}
+
+.column_styles {
+  display: flex!important;
+  flex-direction: column!important;
+  justify-content: center!important;
+  align-items: center!important;
+}
+
+.name_styles {
+  font-weight: 600;
+  font-size: 24px;
+  margin-bottom: 20px
+}
+
+.stock_styles {
+  background: orange;
+  color: white;
+  font-size: 17px;
+  padding: 10px;
+  border-radius: 15px;
+}
+
+.icon_styles{
+  font-size:2rem;
+}
+
+.icon_styles:hover{
+  color:red;
+  cursor: pointer;
+}
+
+.table_header_styles{
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.table_total_styles{
+  font-size: 20px;
+  font-weight: 600;
+  text-align: right!important;
+}
+
+.table_styles{
+  font-size: 17px;
+  font-weight: 600;
+}

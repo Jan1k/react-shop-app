@@ -1,0 +1,48 @@
+.registration_wrapper {
+  display: flex;
+  justify-content: center;
+  height: 100%;
+  background: url('../../common/bg_auth.jpg') no-repeat;
+  background-size: cover
+}
+
+.grid_fullwidth {
+  width: 100%;
+  max-width: 450px;
+}
+
+.btn_signup {
+  width: 150px;
+  border-radius: 3px;
+  margin-top: 1rem;
+}
+
+.link_color, .link_color:hover{
+  color: #000000!important;
+}
+
+
+.link_color:hover {
+  text-decoration: underline;
+}
+
+.registration_error {
+  color: #b93338!important;
+  background-color: #F2DEDE!important;
+  border: 1px solid #EED3D7!important;
+}
+
+.registration_error_msg {
+  color: #b93338!important;
+}
+
+.no_bg {
+  background: none!important;
+  box-shadow: none!important;
+  border: none!important;
+}
+
+.no_bg::after{
+  position: static!important;
+}
+

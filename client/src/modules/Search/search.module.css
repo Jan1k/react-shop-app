@@ -1,0 +1,20 @@
+
+.h3_style {
+  margin: 0!important;
+}
+
+.changed_menu {
+  margin-bottom: 10px!important;
+  box-shadow: none!important;
+  border:none!important;
+  align-items: center!important;
+  flex-direction: column!important;
+}
+.input_view {
+  margin: 4px 0!important;
+  width: 100%;
+}
+.buttons_view {
+  width: 100%!important;
+  margin-top: 4px!important;
+}

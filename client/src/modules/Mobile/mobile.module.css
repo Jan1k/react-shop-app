@@ -1,0 +1,136 @@
+.item_margin {
+  margin: 2em 0em 0em 0em!important;
+}
+.text_aligned {
+  text-align:center!important;
+}
+.block_center {
+  display: flex!important;
+  justify-content: center!important;
+}
+.p_styles {
+  width: 100%!important;
+}
+.tab_styles {
+  margin: 20px!important;
+}
+.tabs_styles {
+  border: none!important;
+  box-shadow: none!important;
+}
+.my_grid {
+  display: flex!important;
+  flex-direction: row!important;
+  width: 70px;
+  margin: 0!important;
+}
+.card_main_img {
+  box-shadow: none!important;
+  display: flex!important;
+  align-items: center!important;
+}
+.card_images_styles {
+  box-shadow: none!important;
+  margin: 0!important;
+}
+
+.images_styles {
+  height: 80px!important;
+  width: 45px!important;
+  cursor: pointer;
+}
+
+.card_images_styles:hover{
+  transform: none!important;
+}
+
+.row_images{
+  display: flex!important;
+}
+.main_img_styles {
+  height: 350px!important;
+  box-shadow: none!important;
+  width: 60%!important;
+}
+.sale_label_styles {
+  width: 40px!important;
+  height: 40px!important;
+  border-radius: 50%!important;
+  background-color: red!important;
+  color: white!important;
+}
+.sale_style {
+  line-height: 20px!important;
+  display: flex!important;
+  justify-content: center!important;
+}
+.bgc {
+  background: #f7f7f7!important;
+}
+.row {
+  display: flex!important;
+  justify-content: space-between!important;
+  align-items: center!important;
+  margin: 20px!important;
+  font-size: 17px!important;
+}
+.price {
+  color: #262424!important;
+  font-weight: bold!important;
+  font-size: 2.6rem!important;
+}
+
+.textarea_styles {
+  width: 100%;
+  resize: none;
+  background: rgb(255, 255, 255);
+  min-height: 100px;
+  padding: 0.678571em 1em;
+  text-align: left;
+  line-height: 1.21429em;
+  color: rgba(0, 0, 0, 0.87);
+  height: 106px;
+  border: 1px solid rgba(34, 36, 38, 0.15);
+  border-radius: 0.285714rem;
+  transition: box-shadow 0.1s ease 0s, border-color 0.1s ease 0s;
+}
+.textarea_styles:focus {
+  border-color: #85b7d9;
+  background: #fff;
+  color: rgba(0,0,0,.8);
+  box-shadow: none;
+}
+.textarea_styles:active {
+  border-color: rgba(0,0,0,.3);
+  background: #fafafa;
+  color: rgba(0,0,0,.87);
+  box-shadow: none;
+}
+
+.textarea_description {
+  flex:1 1 auto!important;
+}
+
+.no_review {
+  text-align: center!important;
+  font-size: 16px
+}
+
+.back_button {
+  position: absolute;
+  bottom: 20px;
+  margin-left: 20px!important;
+}
+
+.select_style{
+  min-width: 11em!important;
+}
+
+.buttons_row {
+  display: flex!important;
+  margin: 10px!important;
+}
+
+.button_margin {
+  margin-left: 5px!important;
+}

@@ -1,0 +1,45 @@
+
+.empty_compare {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 800px;
+}
+
+.table_styles{
+  margin-top: 3em!important;
+}
+
+.hightlight{
+  background: bisque!important;
+  transition: 1.5s!important;
+}
+
+.hightlight_best {
+  background:rgb(176, 238, 204)!important;
+  transition: 3.5s!important;
+}
+
+.unhighlited {
+  background: white!important;
+  transition: 1.5s!important;
+}
+
+.h2_view {
+  margin: 2em 0em!important;
+}
+
+.img_style {
+  height: 280px!important;
+  margin-bottom:10px!important;
+}
+
+.grid_margin {
+  margin: 0!important;
+}
+
+.hide{
+  display: none!important;
+  border:none!important;
+  transition: 1s linear; 
+}

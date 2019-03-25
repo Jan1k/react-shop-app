@@ -1,0 +1,22 @@
+.row_colors{
+  display: flex;
+}
+
+li{
+  list-style: none;
+}
+
+.colors_style{
+  display: flex;
+  border-radius: 50%!important;
+  margin: 0 5px!important;
+  align-items: center!important;
+  justify-content: center!important;
+  transition: all 0.2s ease-out;
+  border: 0.1px solid black;
+}
+
+.colors_style:hover{
+  transform: scale(1.3);
+  cursor: pointer;
+}
